@@ -1,11 +1,11 @@
 ---
 # Display name
-title: Muhammed Razif
+title: Mohammed Razif
 
 
 
 # Full name (for SEO)
-first_name: Muhammed
+first_name: Mohammed
 last_name: Razif
 
 # Status emoji
@@ -51,7 +51,7 @@ interests:
   - Information Retrieval
 
 education:
-  - area: PhD Artificial Intelligence
+  - area:  Artificial Intelligence
     institution: Stanford University
     date_start: 2016-01-01
     date_end: 2020-12-31
@@ -72,7 +72,7 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+    institution: Rajagiri school of engineering and technology
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
